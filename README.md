@@ -8,7 +8,5 @@ For image visualization and verification, [napari](https://github.com/napari/nap
 
 For live embryo analysis, cell tracks were assigned and edited using [Imaris Bitplane (v10.2)](https://imaris.oxinst.com/), however other software such as FIJI can be used as well.
 
-Please see the attached 'example_images.zip' file for test images and expected segmentation results.
-
 # Data analysis and plotting
 Data analysis scripts utilizes R (v4.2).
